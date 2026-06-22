@@ -5,7 +5,7 @@
 
 **Title:** Late-Time Cosmic Acceleration from Coupled Higgs and Neutrino Mass Variation
 
-**Authors:** Malavika K, Soumya Chakrabarty, Arpita Mondal, and Arghya Choudhury
+**Authors:** Malavika K, Soumya Chakrabarti, Arpita Mondal, and Arghya Choudhury
 
 *The manuscript is currently in preparation. Further details and citation information will be added upon publication.*
 
